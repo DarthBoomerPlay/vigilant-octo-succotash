@@ -1,9 +1,0 @@
-{
-  "commands": {
-    "permissions": "У вас недостаточно прав!",
-    "gamemode": {
-      "usage": "Использовать: /gamemode <surival/spectator/adventure/creative>",
-      "result": "Режим игры был изменен на <GAMEMODE>"
-    }
-  }
-}
